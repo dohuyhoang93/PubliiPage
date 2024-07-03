@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>iteck-solution</title>
+    <link href="https://dohuyhoang93.github.io/PubliiPage/feed.xml" rel="self" />
+    <link href="https://dohuyhoang93.github.io/PubliiPage" />
+    <updated>2024-07-03T10:05:09+07:00</updated>
+    <author>
+        <name>Do Huy Hoang</name>
+    </author>
+    <id>https://dohuyhoang93.github.io/PubliiPage</id>
+
+    <entry>
+        <title>my solution - your value</title>
+        <author>
+            <name>Do Huy Hoang</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/my-solution-your-value.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/my-solution-your-value.html</id>
+
+        <updated>2024-07-03T10:04:37+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/4/Logo-Company.png" height="720" width="1280" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-2xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Do Huy Hoang</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/about-us.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/about-us.html</id>
+
+        <updated>2024-07-03T10:02:48+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Chúng tôi ra đời với sứ mệnh sử dụng chất xám của người Việt Nam, tạo ra giá trị công nghiệp Việt Nam.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Chúng tôi ra đời với sứ mệnh sử dụng chất xám của người Việt Nam, tạo ra giá trị công nghiệp Việt Nam.<br>Mục tiêu của iTek là trở thành công ty cung cấp giải pháp tự động hóa số một Việt Nam.<br>Tại iTek, chúng tôi tập trung vào ba yếu tố chính:<br>Với khách hàng: iTek mang đến giải pháp tối ưu nhất về tính năng và hiệu quả.<br>Với nhân viên: iTek tạo một ngôi nhà chung để các cá nhân được quan tâm và trở nên ưu tú.<br>Với cộng đồng: iTek giúp tạo ra các sản phẩm mang giá trị bền vững.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Giám sát nhà máy thời gian thực</title>
+        <author>
+            <name>Do Huy Hoang</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/giam-sat-nha-may-thoi-gian-thuc.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/giam-sat-nha-may-thoi-gian-thuc.html</id>
+
+        <updated>2024-07-03T10:00:19+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hệ thống giám sát máy CNC bằng IoT Màn hình tổng quan Hiệu suất thiết bị và sản lượng Lịch sử trạng thái&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p class="align-center">
+    Hệ thống giám sát máy CNC bằng IoT
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/man-hinh-OEE-2.png" height="720" width="1280" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-2xl.png 1600w">
+      <figcaption>Màn hình tổng quan</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/quantity.png" height="662" width="1556" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-2xl.png 1600w">
+      <figcaption>Hiệu suất thiết bị và sản lượng</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/status.PNG" height="686" width="1570" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-xs.PNG 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-sm.PNG 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-md.PNG 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-lg.PNG 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-xl.PNG 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-2xl.PNG 1600w">
+      <figcaption>Lịch sử trạng thái thiết bị</figcaption>
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

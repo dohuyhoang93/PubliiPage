@@ -1,0 +1,54 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "iteck-solution",
+    "description": "",
+    "home_page_url": "https://dohuyhoang93.github.io/PubliiPage",
+    "feed_url": "https://dohuyhoang93.github.io/PubliiPage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Do Huy Hoang"
+    },
+    "items": [
+        {
+            "id": "https://dohuyhoang93.github.io/PubliiPage/my-solution-your-value.html",
+            "url": "https://dohuyhoang93.github.io/PubliiPage/my-solution-your-value.html",
+            "title": "my solution - your value",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/4/Logo-Company.png\" height=\"720\" width=\"1280\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-2xl.png 1600w\">\n      \n    </figure>",
+            "author": {
+                "name": "Do Huy Hoang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-03T10:04:37+07:00",
+            "date_modified": "2024-07-03T10:05:09+07:00"
+        },
+        {
+            "id": "https://dohuyhoang93.github.io/PubliiPage/about-us.html",
+            "url": "https://dohuyhoang93.github.io/PubliiPage/about-us.html",
+            "title": "About Us",
+            "summary": "Chúng tôi ra đời với sứ mệnh sử dụng chất xám của người Việt Nam, tạo ra giá trị công nghiệp Việt Nam.",
+            "content_html": "\n  <p>\n    Chúng tôi ra đời với sứ mệnh sử dụng chất xám của người Việt Nam, tạo ra giá trị công nghiệp Việt Nam.<br>Mục tiêu của iTek là trở thành công ty cung cấp giải pháp tự động hóa số một Việt Nam.<br>Tại iTek, chúng tôi tập trung vào ba yếu tố chính:<br>Với khách hàng: iTek mang đến giải pháp tối ưu nhất về tính năng và hiệu quả.<br>Với nhân viên: iTek tạo một ngôi nhà chung để các cá nhân được quan tâm và trở nên ưu tú.<br>Với cộng đồng: iTek giúp tạo ra các sản phẩm mang giá trị bền vững.\n  </p>",
+            "author": {
+                "name": "Do Huy Hoang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-03T10:02:48+07:00",
+            "date_modified": "2024-07-03T10:02:48+07:00"
+        },
+        {
+            "id": "https://dohuyhoang93.github.io/PubliiPage/giam-sat-nha-may-thoi-gian-thuc.html",
+            "url": "https://dohuyhoang93.github.io/PubliiPage/giam-sat-nha-may-thoi-gian-thuc.html",
+            "title": "Giám sát nhà máy thời gian thực",
+            "summary": "Hệ thống giám sát máy CNC bằng IoT Màn hình tổng quan Hiệu suất thiết bị và sản lượng Lịch sử trạng thái&hellip;",
+            "content_html": "\n  <p class=\"align-center\">\n    Hệ thống giám sát máy CNC bằng IoT\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/2/man-hinh-OEE-2.png\" height=\"720\" width=\"1280\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-2xl.png 1600w\">\n      <figcaption>Màn hình tổng quan</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/2/quantity.png\" height=\"662\" width=\"1556\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-2xl.png 1600w\">\n      <figcaption>Hiệu suất thiết bị và sản lượng</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/2/status.PNG\" height=\"686\" width=\"1570\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-xs.PNG 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-sm.PNG 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-md.PNG 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-lg.PNG 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-xl.PNG 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-2xl.PNG 1600w\">\n      <figcaption>Lịch sử trạng thái thiết bị</figcaption>\n    </figure>",
+            "author": {
+                "name": "Do Huy Hoang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-03T10:00:19+07:00",
+            "date_modified": "2024-07-03T10:00:19+07:00"
+        }
+    ]
+}
