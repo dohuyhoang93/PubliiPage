@@ -1,92 +1,598 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>iteck-solution</title>
+    <title>TIPEAS</title>
     <link href="https://dohuyhoang93.github.io/PubliiPage/feed.xml" rel="self" />
     <link href="https://dohuyhoang93.github.io/PubliiPage" />
-    <updated>2024-07-03T10:05:09+07:00</updated>
+    <updated>2024-07-05T12:12:35+07:00</updated>
     <author>
         <name>Do Huy Hoang</name>
     </author>
     <id>https://dohuyhoang93.github.io/PubliiPage</id>
 
     <entry>
-        <title>my solution - your value</title>
+        <title>Tìm hiểu về xuất tinh sớm</title>
         <author>
-            <name>Do Huy Hoang</name>
+            <name>Hoang Do Huy</name>
         </author>
-        <link href="https://dohuyhoang93.github.io/PubliiPage/my-solution-your-value.html"/>
-        <id>https://dohuyhoang93.github.io/PubliiPage/my-solution-your-value.html</id>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/tim-hieu-ve-xuat-tinh-som.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/tim-hieu-ve-xuat-tinh-som.html</id>
+        <media:content url="https://dohuyhoang93.github.io/PubliiPage/media/posts/16/pexels-roman-odintsov-4553619.jpg" medium="image" />
+            <category term="xuất tinh sớm"/>
+            <category term="xts"/>
 
-        <updated>2024-07-03T10:04:37+07:00</updated>
+        <updated>2023-03-30T21:26:17+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/4/Logo-Company.png" height="720" width="1280" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/4/responsive/Logo-Company-2xl.png 1600w">
-      
-    </figure>
+                    <p><img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/16/pexels-roman-odintsov-4553619.jpg" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-full"><figure class="wp-image-315"><img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/16/20230331_105326_00009115412916106014665.png" alt=""   sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/16/responsive/20230331_105326_00009115412916106014665-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/16/responsive/20230331_105326_00009115412916106014665-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/16/responsive/20230331_105326_00009115412916106014665-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/16/responsive/20230331_105326_00009115412916106014665-lg.png 1024w"></figure></figure>
+<p>
+<!-- /wp:image --></p>
+
             ]]>
         </content>
     </entry>
     <entry>
-        <title>About Us</title>
+        <title>Lần đầu đi cài Windows dạo</title>
         <author>
-            <name>Do Huy Hoang</name>
+            <name>Hoang Do Huy</name>
         </author>
-        <link href="https://dohuyhoang93.github.io/PubliiPage/about-us.html"/>
-        <id>https://dohuyhoang93.github.io/PubliiPage/about-us.html</id>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/lan-dau-di-cai-windows-dao.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/lan-dau-di-cai-windows-dao.html</id>
+        <media:content url="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/8s1bq0wh.png" medium="image" />
+            <category term="repair"/>
+            <category term="pc"/>
+            <category term="Windows"/>
 
-        <updated>2024-07-03T10:02:48+07:00</updated>
+        <updated>2023-02-06T06:24:06+07:00</updated>
             <summary>
                 <![CDATA[
-                    Chúng tôi ra đời với sứ mệnh sử dụng chất xám của người Việt Nam, tạo ra giá trị công nghiệp Việt Nam.
+                        <img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/8s1bq0wh.png" alt="" />
+                    Chiều hôm qua tôi đã có trải nghiệm cài win dạo đầu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    Chúng tôi ra đời với sứ mệnh sử dụng chất xám của người Việt Nam, tạo ra giá trị công nghiệp Việt Nam.<br>Mục tiêu của iTek là trở thành công ty cung cấp giải pháp tự động hóa số một Việt Nam.<br>Tại iTek, chúng tôi tập trung vào ba yếu tố chính:<br>Với khách hàng: iTek mang đến giải pháp tối ưu nhất về tính năng và hiệu quả.<br>Với nhân viên: iTek tạo một ngôi nhà chung để các cá nhân được quan tâm và trở nên ưu tú.<br>Với cộng đồng: iTek giúp tạo ra các sản phẩm mang giá trị bền vững.
-  </p>
+                    <p><img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/8s1bq0wh.png" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:image {"id":196,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-196"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/pexels-athena-25829312224482417946582151.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-athena-25829312224482417946582151-xs.jpg 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-athena-25829312224482417946582151-sm.jpg 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-athena-25829312224482417946582151-md.jpg 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-athena-25829312224482417946582151-lg.jpg 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Chiều hôm qua tôi đã có trải nghiệm cài win dạo đầu tiên trong đời. Và tôi nghĩ, tại sao lại không đăng lên blog của mình.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Một anh chàng trên nhóm facebook tại khu tôi sống đã đăng tải video pc của anh ta. Nó bật lên, boot vào màn hình khởi động của asus được, rồi màn hình dừng lại ở màu đen. Anh ta hỏi xem ai có thể cài windows giúp được không?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tôi chỉ trả lời vu vơ rằng 200.000 vnd (8USD) tôi sẽ giúp anh ta. Anh ấy trả lời, chúng tôi trao đổi nhanh và hẹn hôm sau nữa tôi sẽ đến xem.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tôi biết cài đặt windows nhưng là cách đây 9 năm rồi. Gần đây tôi hầu như làm việc với Linux. Vì vậy, để chuẩn bị, tôi mang theo 1 Flash Driver 16GB chứa: 1 file iso WinPE HBCD, 1 iso cài đặt Windows 10 tiêu chuẩn, 1 file Windows10.GHO, ghost64.exe, và iso Gparted live. Kịch bản là nếu Windows của anh ta bị hỏng nặng. Tôi sẽ sử dụng WinPE để chạy chương trình Symantec Norton Ghost để phục hồi bản Windows10 mà tôi đã chuẩn bị. Nếu nó chỉ lỗi nhẹ phần khởi động, tôi sẽ sửa qua recovery mode của iso cài đặt windows10. Tệ nhất thì sẽ cài lại windows10 tiêu chuẩn một cách thủ công.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thực tế luôn không như dự tính. PC của anh ta sử dụng UEFI mà tôi chưa từng tiếp xúc. Boot vào Gparted live cd được, kiểm tra cho thấy: SSD chứa windows10 của anh ấy hoàn toàn ổn. Không có hư hỏng vật lý. Nhưng, khi boot vào WinPE thì màn hình cũng chỉ chạy qua loading files rồi đen thui. Với kinh nghiệm ít ỏi của mình. Tôi đặt thiết lập phần sụn của asus về mặc định. Sau đó máy tính không nhận ra ổ SSD SATA nữa. Loay hoay thì tôi tìm ra nguyên nhân. Motherboard phải đặt thiết lập kết nối SATA là IDE hay vì AHCI như mặc định thì mới nhận được SSD. ? Thật khó hiểu khi IDE là chuẩn cũ và AHCI hoàn toàn có thể tương thích ngược.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":197,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-197"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/pexels-andrea-piacquadio-37601322072679103670466839.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-andrea-piacquadio-37601322072679103670466839-xs.jpg 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-andrea-piacquadio-37601322072679103670466839-sm.jpg 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-andrea-piacquadio-37601322072679103670466839-md.jpg 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/pexels-andrea-piacquadio-37601322072679103670466839-lg.jpg 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ok. SSD đã nhận nhưng vẫn không thể boot vào windows được. Boot WinPE từ flash driver của tôi cũng vẫn thế. Tôi đoán UEFI đã ngăn khởi động từ ổ Flash Driver. Vậy sao Gparted vẫn có thể khởi động được? Tôi tắt Secure boot của UEFI bằng cách sao lưu các key bảo mật vào Flash Driver sau đó xoá key PK đi. Tình trạng không khá hơn. Màn hình khởi động vào WinPE vẫn đen và đứng im. Lần này tôi quyết định chờ cái màn hình này. Và may mắn, sau 5 phút hoặc gần như thế. Nó đã khởi động vào WinPE được. Mọi việc tiếp theo diễn ra thuận lợi. Tôi nhận ra lí do khiến WinPE khởi động lâu như thế là do tốc độ đọc của FlashDriver trên chiếc PC này chậm kinh khủng. Trên chiếc PC cổ lỗ sĩ của tôi, nó còn nhanh hơn rất nhiều.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mọi chuyện kết thúc êm đẹp sau nhiều trắc trở. Máy tính của anh ta đã boot vào windows bình thường. Nhưng tôi đoán rằng hiện tượng này sẽ còn có thể xảy ra. Nếu PC này mất điện và pin CMOS hết. Thiết lập SATA sẽ trả về AHCI, và nó sẽ không nhận ổ SSD này nữa.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tôi quyết định tối này sẽ tìm hiểu về UEFI boot trên chiếc PC cổ của tôi. Nó cũng có UEFI nhưng là phiên bản khá cũ rồi. Chỉ là mọi chuyện xảy ra tiếp theo phức tạp hơn tôi tưởng.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Còn tiếp...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":199,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-199"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/img_20230206_1009358513984843499509621.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230206_1009358513984843499509621-xs.jpg 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230206_1009358513984843499509621-sm.jpg 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230206_1009358513984843499509621-md.jpg 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230206_1009358513984843499509621-lg.jpg 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":198} --></p>
+<figure class="wp-block-image"><figure class="wp-image-198"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/img_20230203_1503547121384530790510339.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230203_1503547121384530790510339-xs.jpg 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230203_1503547121384530790510339-sm.jpg 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230203_1503547121384530790510339-md.jpg 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/15/responsive/img_20230203_1503547121384530790510339-lg.jpg 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Giám sát nhà máy thời gian thực</title>
+        <title>Phil Zimmermann về mã hóa và quyền riêng tư, từ 1991, cập nhật 1999</title>
         <author>
-            <name>Do Huy Hoang</name>
+            <name>Hoang Do Huy</name>
         </author>
-        <link href="https://dohuyhoang93.github.io/PubliiPage/giam-sat-nha-may-thoi-gian-thuc.html"/>
-        <id>https://dohuyhoang93.github.io/PubliiPage/giam-sat-nha-may-thoi-gian-thuc.html</id>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/phil-zimmermann-ve-ma-hoa-va-quyen-rieng-tu-tu-1991-cap-nhat-1999.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/phil-zimmermann-ve-ma-hoa-va-quyen-rieng-tu-tu-1991-cap-nhat-1999.html</id>
+            <category term="riêng tư"/>
+            <category term="PGP"/>
+            <category term="Công nghệ thông tin"/>
 
-        <updated>2024-07-03T10:00:19+07:00</updated>
+        <updated>2023-01-09T19:59:02+07:00</updated>
             <summary>
                 <![CDATA[
-                    Hệ thống giám sát máy CNC bằng IoT Màn hình tổng quan Hiệu suất thiết bị và sản lượng Lịch sử trạng thái&hellip;
+                    Phil Zimmermann đã viết công cụ mã hóa Pretty Good Privacy (PGP)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p class="align-center">
-    Hệ thống giám sát máy CNC bằng IoT
-  </p>
+                <p><!-- wp:paragraph --></p>
+<p>Phil Zimmermann đã viết công cụ mã hóa Pretty Good Privacy (PGP) vào năm 1991 để thúc đẩy quyền riêng tư và giúp giữ cho mã hóa, và do đó quyền riêng tư, hợp pháp trên toàn thế giới. Khó khăn đáng kể đã xảy ra ở Hoa Kỳ cho đến khi PGP được xuất bản ra bên ngoài và được nhập lại một cách công khai, rất dễ thấy.<br><br>Tại sao tôi viết PGP<br>Một phần của Hướng dẫn sử dụng PGP gốc năm 1991 (cập nhật năm 1999)<br><br>"Bất cứ điều gì bạn làm sẽ không đáng kể, nhưng điều rất quan trọng là bạn phải làm điều đó."<br><br>-Mahatma gandhi.<br><br>Đó là chuyện cá nhân. Nó là riêng tư. Và đó không phải là việc của ai mà là của bạn. Bạn có thể đang lên kế hoạch cho một chiến dịch chính trị, thảo luận về thuế của mình hoặc có một mối tình bí mật. Hoặc bạn có thể đang giao tiếp với một nhà bất đồng chính kiến ở một quốc gia hà khắc. Dù đó là gì đi nữa, bạn không muốn thư điện tử (email) riêng tư hoặc tài liệu bí mật của mình bị người khác đọc. Không có gì sai khi khẳng định quyền riêng tư của bạn. Quyền riêng tư cũng ngon như Hiến pháp.<br><br>Quyền riêng tư được phổ biến ngầm trong Tuyên ngôn Nhân quyền. Nhưng khi Hiến pháp Hoa Kỳ được hình thành, các Nhà lập quốc thấy không cần thiết phải nói rõ ràng về quyền đối thoại riêng tư. Điều đó thật ngớ ngẩn. Hai trăm năm trước, tất cả các cuộc trò chuyện đều riêng tư. Nếu ai đó ở trong tầm nghe, bạn có thể đi ra phía sau nhà kho và trò chuyện ở đó. Không ai có thể lắng nghe mà bạn không biết. Quyền nói chuyện riêng tư là một quyền tự nhiên, không chỉ theo nghĩa triết học mà còn theo nghĩa vật lý, với công nghệ thời đó.<br><br>Nhưng với sự xuất hiện của thời đại thông tin, bắt đầu với việc phát minh ra điện thoại, tất cả đã thay đổi. Bây giờ hầu hết các cuộc trò chuyện của chúng tôi được thực hiện bằng điện tử. Điều này cho phép các cuộc trò chuyện thân mật nhất của chúng ta bị lộ ra ngoài mà chúng ta không hề hay biết. Các cuộc gọi điện thoại di động có thể được theo dõi bởi bất kỳ ai có đài. Thư điện tử, được gửi qua Internet, không an toàn hơn các cuộc gọi điện thoại di động. Thư điện tử đang nhanh chóng thay thế thư bưu chính, trở thành tiêu chuẩn cho mọi người chứ không còn là điều mới lạ như trước đây.<br><br>Cho đến gần đây, nếu chính phủ muốn xâm phạm quyền riêng tư của công dân bình thường, họ phải bỏ ra một số chi phí và công sức nhất định để chặn và mở và đọc thư giấy. Hoặc họ phải nghe và có thể phiên âm cuộc nói chuyện qua điện thoại, ít nhất là trước khi có công nghệ nhận dạng giọng nói tự động. Loại giám sát tốn nhiều công sức này không thực tế trên quy mô lớn. Nó chỉ được thực hiện trong những trường hợp quan trọng khi nó có vẻ đáng giá. Điều này giống như bắt từng con cá một, bằng lưỡi câu và dây câu. Ngày nay, email có thể được quét thường xuyên và tự động để tìm các từ khóa thú vị, trên phạm vi rộng lớn mà không bị phát hiện. Điều này giống như đánh cá bằng lưới trôi. Và sự tăng trưởng theo cấp số nhân của sức mạnh máy tính đang khiến điều tương tự trở nên khả thi với lưu lượng thoại.<br><br>Có lẽ bạn nghĩ rằng email của mình đủ hợp pháp nên việc mã hóa là không chính đáng. Nếu bạn thực sự là một công dân tuân thủ luật pháp và không có gì phải che giấu, thì tại sao bạn không gửi thư giấy của mình trên bưu thiếp luôn? Vì sao không nộp kiểm nghiệm thuốc theo yêu cầu? Tại sao cần có lệnh khám xét của cảnh sát đối với ngôi nhà của bạn? Bạn đang cố che giấu điều gì đó? Nếu bạn giấu thư của mình bên trong phong bì, điều đó có nghĩa là bạn phải là một kẻ phá hoại hoặc buôn bán ma túy, hoặc có thể là một kẻ hoang tưởng? Các công dân tuân thủ pháp luật có cần mã hóa email của họ không?<br><br>Điều gì sẽ xảy ra nếu mọi người tin rằng những công dân tuân thủ luật pháp nên sử dụng bưu thiếp để gửi thư? Nếu một người không tuân thủ cố gắng khẳng định quyền riêng tư của mình bằng cách sử dụng phong bì để gửi thư, thì điều đó sẽ gây ra sự nghi ngờ. Có lẽ chính quyền sẽ mở thư của anh ấy để xem những gì anh ấy đang che giấu. May mắn thay, chúng ta không sống trong thế giới như vậy, bởi vì mọi người đều bảo vệ phần lớn thư của họ bằng phong bì. Vì vậy, không ai gây nghi ngờ bằng cách khẳng định quyền riêng tư của họ bằng một chiếc phong bì. Có sự an toàn trong số lượng. Tương tự, sẽ thật tuyệt nếu mọi người thường xuyên sử dụng mã hóa cho tất cả email của họ, dù vô tội hay không, để không ai nghi ngờ bằng cách khẳng định quyền riêng tư email của họ bằng mã hóa. Hãy nghĩ về nó như một hình thức đoàn kết.<br><br>Dự luật Thượng viện 266, một dự luật chống tội phạm tổng hợp năm 1991, có một biện pháp đáng lo ngại được chôn vùi trong đó. Nếu nghị quyết không ràng buộc này trở thành luật thực sự, thì nó sẽ buộc các nhà sản xuất thiết bị liên lạc an toàn phải chèn "cửa bẫy" đặc biệt vào sản phẩm của họ để chính phủ có thể đọc được tin nhắn được mã hóa của bất kỳ ai. Nó viết, "Quốc hội có ý thức rằng các nhà cung cấp dịch vụ liên lạc điện tử và nhà sản xuất thiết bị dịch vụ liên lạc điện tử phải đảm bảo rằng các hệ thống liên lạc cho phép chính phủ có được nội dung văn bản thuần túy của giọng nói, dữ liệu và các thông tin liên lạc khác khi được luật pháp cho phép phù hợp ." Chính dự luật này đã khiến tôi xuất bản PGP điện tử miễn phí vào năm đó,<br><br>Đạo luật Hỗ trợ Truyền thông cho Thực thi Pháp luật (CALEA) năm 1994 bắt buộc các công ty điện thoại phải cài đặt các cổng nghe lén từ xa vào các thiết bị chuyển mạch kỹ thuật số của văn phòng trung tâm, tạo ra cơ sở hạ tầng công nghệ mới cho hoạt động nghe lén "trỏ và bấm", để các đặc vụ liên bang không còn phải đi nữa. ra và gắn kẹp cá sấu vào đường dây điện thoại. Bây giờ họ sẽ có thể ngồi trong trụ sở chính của họ ở Washington và lắng nghe các cuộc điện thoại của bạn. Tất nhiên, luật pháp vẫn yêu cầu phải có lệnh của tòa án đối với việc nghe lén. Nhưng trong khi cơ sở hạ tầng công nghệ có thể tồn tại qua nhiều thế hệ, luật pháp và chính sách có thể thay đổi chỉ sau một đêm. Một khi cơ sở hạ tầng thông tin liên lạc được tối ưu hóa để giám sát trở nên vững chắc, sự thay đổi trong các điều kiện chính trị có thể dẫn đến việc lạm dụng quyền lực mới hình thành này. Các điều kiện chính trị có thể thay đổi với cuộc bầu cử của một chính phủ mới,<br><br>Một năm sau khi CALEA được thông qua, FBI tiết lộ kế hoạch yêu cầu các công ty điện thoại xây dựng cơ sở hạ tầng của họ có khả năng nghe lén đồng thời 1% tổng số cuộc gọi điện thoại ở tất cả các thành phố lớn của Hoa Kỳ. Điều này sẽ thể hiện sự gia tăng hơn một nghìn lần so với các mức trước đây về số lượng điện thoại có thể bị nghe lén. Trong những năm trước, chỉ có khoảng một nghìn vụ nghe lén theo lệnh của tòa án ở Hoa Kỳ mỗi năm, ở cấp liên bang, tiểu bang và địa phương cộng lại. Thật khó để biết chính phủ thậm chí có thể tuyển dụng đủ thẩm phán như thế nào để ký đủ lệnh nghe lén để nghe lén 1 phần trăm tất cả các cuộc gọi điện thoại của chúng ta, chứ đừng nói đến việc thuê đủ các đặc vụ liên bang để ngồi và lắng nghe tất cả lưu lượng truy cập đó trong thời gian thực. Cách hợp lý duy nhất để xử lý lượng lưu lượng truy cập đó là một ứng dụng lớn của công nghệ nhận dạng giọng nói tự động của Orwellian để sàng lọc tất cả, tìm kiếm các từ khóa thú vị hoặc tìm kiếm giọng nói của một người nói cụ thể. Nếu chính phủ không tìm thấy mục tiêu trong mẫu 1 phần trăm đầu tiên, thì việc nghe lén có thể được chuyển sang 1 phần trăm khác cho đến khi mục tiêu được tìm thấy hoặc cho đến khi đường dây điện thoại của mọi người được kiểm tra xem có lưu lượng truy cập lật đổ hay không. FBI cho biết họ cần khả năng này để lập kế hoạch cho tương lai. Kế hoạch này đã gây ra sự phẫn nộ đến nỗi nó đã bị đánh bại tại Quốc hội. Nhưng thực tế là FBI thậm chí còn yêu cầu những quyền hạn rộng lớn này đang tiết lộ chương trình nghị sự của họ. Nếu không tìm thấy mục tiêu trong mẫu 1 phần trăm đầu tiên, các máy nghe lén có thể được chuyển sang 1 phần trăm khác cho đến khi mục tiêu được tìm thấy hoặc cho đến khi đường dây điện thoại của mọi người được kiểm tra xem có lưu lượng truy cập lật đổ hay không. FBI cho biết họ cần khả năng này để lập kế hoạch cho tương lai. Kế hoạch này đã gây ra sự phẫn nộ đến nỗi nó đã bị đánh bại tại Quốc hội. Nhưng thực tế là FBI thậm chí còn yêu cầu những quyền hạn rộng lớn này đang tiết lộ chương trình nghị sự của họ. Nếu không tìm thấy mục tiêu trong mẫu 1 phần trăm đầu tiên, các máy nghe lén có thể được chuyển sang 1 phần trăm khác cho đến khi mục tiêu được tìm thấy hoặc cho đến khi đường dây điện thoại của mọi người được kiểm tra xem có lưu lượng truy cập lật đổ hay không. FBI cho biết họ cần khả năng này để lập kế hoạch cho tương lai. Kế hoạch này đã gây ra sự phẫn nộ đến nỗi nó đã bị đánh bại tại Quốc hội. Nhưng thực tế là FBI thậm chí còn yêu cầu những quyền hạn rộng lớn này đang tiết lộ chương trình nghị sự của họ.<br><br>Những tiến bộ trong công nghệ sẽ không cho phép duy trì hiện trạng, liên quan đến quyền riêng tư. Hiện trạng không ổn định. Nếu chúng ta không làm gì, các công nghệ mới sẽ mang lại cho chính phủ những khả năng giám sát tự động mới mà Stalin không bao giờ có thể mơ tới. Cách duy nhất để đảm bảo quyền riêng tư trong thời đại thông tin là mật mã mạnh.<br><br>Bạn không cần phải nghi ngờ chính phủ khi muốn sử dụng mật mã. Doanh nghiệp của bạn có thể bị các đối thủ kinh doanh, tội phạm có tổ chức hoặc chính phủ nước ngoài nghe lén. Ví dụ, một số chính phủ nước ngoài thừa nhận đã sử dụng thông tin tình báo về tín hiệu của họ để chống lại các công ty từ các quốc gia khác nhằm mang lại lợi thế cạnh tranh cho các tập đoàn của họ. Trớ trêu thay, những hạn chế của chính phủ Hoa Kỳ đối với mật mã trong những năm 1990 đã làm suy yếu khả năng phòng thủ của các công ty Hoa Kỳ chống lại tình báo nước ngoài và tội phạm có tổ chức.<br><br>Chính phủ biết mật mã có vai trò then chốt như thế nào trong mối quan hệ quyền lực với người dân. Vào tháng 4 năm 1993, chính quyền Clinton công bố một sáng kiến chính sách mã hóa táo bạo mới, đã được phát triển tại Cơ quan An ninh Quốc gia (NSA) kể từ khi bắt đầu chính quyền Bush. Tâm điểm của sáng kiến này là một thiết bị mã hóa do chính phủ chế tạo, được gọi là chip Clipper, chứa một thuật toán mã hóa mới được phân loại của NSA. Chính phủ đã cố gắng khuyến khích ngành công nghiệp tư nhân thiết kế nó thành tất cả các sản phẩm liên lạc an toàn của họ, chẳng hạn như điện thoại an toàn, fax an toàn, v.v. AT&T đưa Clipper vào các sản phẩm thoại bảo mật của mình. Điểm mấu chốt: Tại thời điểm sản xuất, mỗi con chip Clipper được nạp một khóa duy nhất của riêng nó và chính phủ sẽ giữ một bản sao, được đặt trong tài khoản ký quỹ. Đừng lo lắng, mặc dù vậy–chính phủ hứa rằng họ sẽ chỉ sử dụng các khóa này để đọc lưu lượng truy cập của bạn "khi được pháp luật cho phép hợp lệ". Tất nhiên, để làm cho Clipper hoàn toàn hiệu quả, bước hợp lý tiếp theo sẽ là cấm các hình thức mật mã khác.<br><br>Ban đầu, chính phủ tuyên bố rằng việc sử dụng Clipper là tự nguyện, rằng không ai bị buộc phải sử dụng nó thay cho các loại mật mã khác. Nhưng phản ứng của công chúng chống lại chip Clipper rất mạnh, mạnh hơn chính phủ dự đoán. Ngành công nghiệp máy tính đồng loạt tuyên bố phản đối việc sử dụng Clipper. Giám đốc FBI Louis Freeh đã trả lời một câu hỏi trong một cuộc họp báo vào năm 1994 bằng cách nói rằng nếu Clipper không giành được sự ủng hộ của công chúng và các cuộc nghe lén của FBI bị chặn lại bằng mật mã không do chính phủ kiểm soát, văn phòng của ông sẽ không còn lựa chọn nào khác ngoài việc tìm kiếm sự trợ giúp của pháp luật . Sau đó, sau thảm kịch ở thành phố Oklahoma, Mr.<br><br>Chính phủ có thành tích không tạo niềm tin rằng họ sẽ không bao giờ lạm dụng các quyền tự do dân sự của chúng ta. Chương trình COINTELPRO của FBI nhắm mục tiêu vào các nhóm phản đối chính sách của chính phủ. Họ do thám phong trào phản chiến và phong trào dân quyền. Họ nghe lén điện thoại của Martin Luther King. Nixon có danh sách kẻ thù của mình. Sau đó là vụ Watergate. Gần đây hơn, Quốc hội đã cố gắng hoặc đã thành công trong việc thông qua luật hạn chế quyền tự do dân sự của chúng ta trên Internet. Một số thành phần của Nhà Trắng thời Clinton đã thu thập các hồ sơ bí mật của FBI về các công chức Đảng Cộng hòa, có thể là để khai thác chính trị. Và một số công tố viên quá nhiệt tình đã thể hiện sự sẵn sàng đi đến tận cùng Trái đất để theo đuổi việc vạch trần những hành vi bừa bãi tình dục của những kẻ thù chính trị.<br><br>Trong suốt những năm 1990, tôi đã nhận ra rằng nếu chúng ta muốn chống lại xu hướng đáng lo ngại này trong việc chính phủ đặt ra ngoài vòng pháp luật mật mã, thì một biện pháp mà chúng ta có thể áp dụng là sử dụng mật mã nhiều nhất có thể ngay bây giờ trong khi nó vẫn còn hợp pháp. Khi việc sử dụng mật mã mạnh trở nên phổ biến, chính phủ sẽ khó hình sự hóa nó hơn. Vì vậy, sử dụng PGP là tốt cho việc bảo tồn nền dân chủ. Nếu quyền riêng tư bị đặt ngoài vòng pháp luật, chỉ những kẻ ngoài vòng pháp luật mới có quyền riêng tư.<br><br>Có vẻ như việc triển khai PGP hẳn đã có hiệu quả, cùng với nhiều năm liên tục bị công chúng phản đối kịch liệt và áp lực buộc ngành phải nới lỏng các biện pháp kiểm soát xuất khẩu. Vào những tháng cuối năm 1999, chính quyền Clinton đã công bố một sự thay đổi triệt để trong chính sách xuất khẩu công nghệ tiền điện tử. Về cơ bản, họ đã loại bỏ toàn bộ chế độ kiểm soát xuất khẩu. Giờ đây, cuối cùng chúng tôi cũng có thể xuất mật mã mạnh, không có giới hạn trên về độ mạnh. Đó là một cuộc đấu tranh lâu dài, nhưng cuối cùng chúng ta đã chiến thắng, ít nhất là trên mặt trận kiểm soát xuất khẩu ở Mỹ. Bây giờ chúng ta phải tiếp tục nỗ lực triển khai tiền điện tử mạnh mẽ, để giảm bớt các tác động ngày càng tăng nỗ lực giám sát trên Internet của các chính phủ khác nhau. Và chúng ta vẫn cần phải củng cố quyền sử dụng nó trong nước trước sự phản đối của FBI.<br><br>PGP trao quyền cho mọi người nắm quyền riêng tư của họ. Đã có một nhu cầu xã hội ngày càng tăng cho nó. Đó là lý do tại sao tôi đã viết nó.<br><br>Philip R. Zimmermann<br>Boulder, Colorado<br>tháng 6 năm 1991 (cập nhật 1999) [2]</p>
+<p>
+<!-- /wp:paragraph --></p>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/man-hinh-OEE-2.png" height="720" width="1280" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/man-hinh-OEE-2-2xl.png 1600w">
-      <figcaption>Màn hình tổng quan</figcaption>
-    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tatu Ylönen - Tại sao phải dùng mã hoá. Đoạn trích của ssh-1.0.0 README từ ngày 12 tháng 7 năm 1995</title>
+        <author>
+            <name>Hoang Do Huy</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/tatu-yloenen-tai-sao-phai-dung-ma-hoa-doan-trich-cua-ssh-100-readme-tu-ngay-12-thang-7-nam-1995.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/tatu-yloenen-tai-sao-phai-dung-ma-hoa-doan-trich-cua-ssh-100-readme-tu-ngay-12-thang-7-nam-1995.html</id>
+            <category term="riêng tư"/>
+            <category term="openssh"/>
+            <category term="Công nghệ thông tin"/>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/quantity.png" height="662" width="1556" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-lg.png 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-xl.png 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/quantity-2xl.png 1600w">
-      <figcaption>Hiệu suất thiết bị và sản lượng</figcaption>
-    </figure>
+        <updated>2023-01-09T19:53:20+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Tatu Ylönen, khi đó đang làm việc tại Đại học Công nghệ&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>Tatu Ylönen, khi đó đang làm việc tại Đại học Công nghệ Helsinki, đã viết README&nbsp;<sup class="reference"><a href="https://en.m.wikibooks.org/wiki/OpenSSH/Why_Use_Encryption#cite_note-SSH-1.0.0-README-1">[1]</a></sup>&nbsp;đi kèm với các phiên bản đầu tiên của phần mềm Mã nguồn mở của ông, SSH.&nbsp;Sau đây là một đoạn trích về lý do tại sao mã hóa lại quan trọng.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>ssh-1.0.0 README 1995-07-12</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>…</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>TẠI SAO NÊN SỬ DỤNG SECRET SHELL</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hiện tại, hầu hết tất cả các giao tiếp trong mạng máy tính được thực hiện mà không cần mã hóa. Do đó, bất kỳ ai có quyền truy cập vào bất kỳ máy nào được kết nối với mạng đều có thể nghe được bất kỳ thông tin liên lạc nào. Điều này đang được thực hiện bởi tin tặc, quản trị viên tò mò, người sử dụng lao động, tội phạm, gián điệp công nghiệp và chính phủ. Một số mạng rò rỉ bức xạ điện từ đủ để dữ liệu có thể được thu thập ngay cả từ xa.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Khi bạn đăng nhập, mật khẩu của bạn sẽ được đưa vào mạng ở dạng văn bản thuần túy. Do đó, bất kỳ người nghe nào sau đó có thể sử dụng tài khoản của bạn để làm bất kỳ điều ác nào mà anh ta thích. Nhiều sự cố đã xảy ra trên toàn thế giới khi những kẻ bẻ khóa đã khởi động các chương trình trên máy trạm mà chủ sở hữu không hề hay biết chỉ để nghe mạng và thu thập mật khẩu. Các chương trình để làm điều này có sẵn trên Internet hoặc có thể được xây dựng bởi một lập trình viên có năng lực trong vài ngày.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mọi thông tin bạn nhập hoặc in trên màn hình đều có thể được theo dõi, ghi lại và phân tích. Ví dụ: kẻ xâm nhập đã xâm nhập vào máy chủ được kết nối với mạng lớn có thể bắt đầu chương trình lắng nghe tất cả dữ liệu truyền trong mạng và bất cứ khi nào gặp chuỗi 16 chữ số, nó sẽ kiểm tra xem đó có phải là số thẻ tín dụng hợp lệ hay không ( bằng cách sử dụng số kiểm tra) và lưu số cùng với bất kỳ văn bản xung quanh nào (để nắm bắt ngày hết hạn và chủ sở hữu) trong một tệp. Khi kẻ xâm nhập đã thu thập được vài nghìn số thẻ tín dụng, anh ta thực hiện các giao dịch mua nhỏ qua thư đặt hàng từ vài nghìn cửa hàng trên khắp thế giới và biến mất khi hàng hóa đến nhưng trước khi bất kỳ ai nghi ngờ điều gì.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Các doanh nghiệp có bí mật thương mại, chuẩn bị đăng ký bằng sáng chế, thông tin về giá cả, thông tin về nhà thầu phụ, dữ liệu khách hàng, dữ liệu nhân sự, thông tin tài chính, v.v. Hiện tại, bất kỳ ai có quyền truy cập vào mạng (bất kỳ máy nào trên mạng) đều có thể nghe bất kỳ nội dung nào trong mạng, mà không cần quan tâm đến các hạn chế truy cập thông thường.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nhiều công ty không nhận thức được rằng thông tin có thể dễ dàng được phục hồi từ mạng. Họ tin tưởng rằng dữ liệu của họ an toàn vì không ai được phép biết rằng có thông tin nhạy cảm trong mạng hoặc vì có quá nhiều dữ liệu khác được truyền trong mạng. Đây không phải là một chính sách an toàn.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Các cá nhân cũng có thông tin bí mật, chẳng hạn như nhật ký, thư tình, tài liệu chăm sóc sức khỏe, thông tin về sở thích và thói quen cá nhân, dữ liệu nghề nghiệp, đơn xin việc, báo cáo thuế, tài liệu chính trị, bản thảo chưa xuất bản, v.v.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ngoài ra còn có một khía cạnh đáng sợ khác về tính bảo mật kém của thông tin liên lạc. Khả năng lưu trữ và phân tích của máy tính đã tăng lên rất nhiều đến mức các chính phủ, công ty lớn và tổ chức tội phạm có thể tự động phân tích, xác định, phân loại và lưu trữ thông tin về hàng triệu người trong những năm qua. Bởi vì hầu hết các công việc có thể được tự động hóa, chi phí thu thập thông tin này đang trở nên rất thấp.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Các cơ quan chính phủ có thể giám sát các hệ thống thông tin liên lạc chính, điện thoại, fax, mạng máy tính, v.v. và thu thập một cách thụ động lượng thông tin khổng lồ về tất cả những người có bất kỳ vị trí quan trọng nào trong xã hội. Hầu hết các thông tin này không nhạy cảm và nhiều người sẽ nói rằng không có hại gì khi ai đó nhận được thông tin đó. Tuy nhiên, thông tin bắt đầu trở nên nhạy cảm khi ai đó có đủ thông tin. Bạn có thể không phiền nếu ai đó biết những gì bạn đã mua từ cửa hàng vào một ngày ngẫu nhiên, nhưng bạn có thể không thích ai đó biết mọi thứ nhỏ nhặt mà bạn đã mua trong mười năm qua.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nếu một ngày nào đó chính phủ bắt đầu chuyển sang hướng toàn trị hơn, sẽ có nguy cơ đáng kể về một nhà nước toàn trị cuối cùng. Với đủ thông tin (hồ sơ được thu thập tự động của một cá nhân có thể được phân tích thủ công khi người đó trở nên thú vị), người ta có thể hình thành một bức tranh rất chi tiết về sở thích, quan điểm, niềm tin, thói quen, bạn bè, người yêu, điểm yếu của cá nhân đó, v.v. Thông tin này có thể được sử dụng để 1) xác định vị trí của bất kỳ người nào có thể phản đối hệ thống mới 2) sử dụng sự lừa dối để làm phiền bất kỳ tổ chức nào có thể nổi dậy chống lại chính phủ 3) loại bỏ những cá nhân khó bảo mà không ai hiểu chuyện gì đã xảy ra. Ngoài ra, nếu chính phủ có thể giám sát thông tin liên lạc quá hiệu quả, thì việc xác định vị trí và loại bỏ bất kỳ người nào phát tán thông tin trái với sự thật chính thức trở nên quá dễ dàng.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Chống tội phạm và khủng bố thường được sử dụng làm căn cứ để giám sát trong nước và hạn chế mã hóa. Đây là những mục tiêu tốt, nhưng có nguy cơ đáng kể là dữ liệu giám sát bắt đầu được sử dụng cho các mục đích đáng ngờ. Tôi thấy rằng tốt hơn là dung túng cho một lượng nhỏ tội phạm trong xã hội hơn là để xã hội bị kiểm soát hoàn toàn. Tôi ủng hộ một nhà nước khá mạnh, nhưng nhà nước không bao giờ được mạnh đến mức người dân không thể truyền bá thông tin trái chính thống và không thể lật đổ chính phủ nếu nó tồi tệ. Điều nguy hiểm là khi bạn nhận thấy rằng chính phủ quá quyền lực thì đã quá muộn. Ngoài ra, quyền lực thực sự có thể không nằm ở nơi có chính phủ chính thức.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Vì những lý do này (quyền riêng tư, bảo vệ bí mật thương mại và khiến việc tạo ra một nhà nước độc tài trở nên khó khăn hơn), tôi nghĩ rằng mật mã mạnh nên được tích hợp vào các công cụ chúng ta sử dụng hàng ngày. Sử dụng nó không gây hại gì (ngoại trừ những người muốn theo dõi mọi thứ), nhưng không sử dụng nó có thể gây ra vấn đề lớn. Nếu xã hội thay đổi theo những cách không mong muốn, thì sẽ quá muộn để bắt đầu mã hóa.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mã hóa đã có một hương vị "quân sự" hoặc "được phân loại" đối với nó. Không còn bất kỳ căn cứ nào cho việc này. Quân đội có thể và sẽ sử dụng mã hóa của riêng mình; đó không phải là lý do để ngăn cản thường dân bảo vệ quyền riêng tư và bí mật của họ. Thông tin về mã hóa mạnh có sẵn ở mọi hiệu sách lớn, thư viện khoa học và văn phòng bằng sáng chế trên toàn thế giới và phần mềm mã hóa mạnh có sẵn ở mọi quốc gia trên Internet.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Một số người muốn biến việc sử dụng mã hóa thành bất hợp pháp hoặc buộc mọi người sử dụng mã hóa mà chính phủ có thể phá vỡ. Cách tiếp cận này không bảo vệ nếu chính phủ trở nên tồi tệ. Ngoài ra, dù sao thì "kẻ xấu" cũng sẽ sử dụng mã hóa mạnh thực sự. Do đó, bất kỳ "mã hóa ký quỹ khóa" nào hoặc bất kỳ thứ gì nó có thể được gọi là chỉ phục vụ để giúp giám sát những người bình thường và tội phạm nhỏ; nó không giúp chống lại những tên tội phạm mạnh mẽ, những kẻ khủng bố hoặc gián điệp, bởi vì dù sao thì chúng cũng sẽ biết cách sử dụng mã hóa mạnh.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>…</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Cũng xin cảm ơn Philip Zimmermann, người có phần mềm PGP và cuộc chiến pháp lý liên quan đã cung cấp nguồn cảm hứng, động lực và nhiều kỹ thuật hữu ích, và Bruce Schneier, người có cuốn sách Mật mã học ứng dụng đã thực hiện một dịch vụ tuyệt vời trong việc phổ biến rộng rãi kiến ​​thức về các phương pháp mật mã.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>…</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>ssh-1.0.0 README 1995-07-12</p>
+<p>
+<!-- /wp:paragraph --></p>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/status.PNG" height="686" width="1570" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-xs.PNG 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-sm.PNG 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-md.PNG 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-lg.PNG 1024w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-xl.PNG 1360w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/2/responsive/status-2xl.PNG 1600w">
-      <figcaption>Lịch sử trạng thái thiết bị</figcaption>
-    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bạn có biết đọc sách không?</title>
+        <author>
+            <name>Hoang Do Huy</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/ban-co-biet-doc-sach-khong.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/ban-co-biet-doc-sach-khong.html</id>
+
+        <updated>2021-06-10T15:28:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                    tramdoc.vn READSTATION.VN 13 - 16 minutes Ở đây, mình xin giới thiệu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>tramdoc.vn<br><br>READSTATION.VN<br>13 - 16 minutes<br><br>Ở đây, mình xin giới thiệu với các bạn một phương pháp đọc sách mà mình đã áp dụng trong thời gian qua, và cảm thấy rất hiệu quả. Tuy vậy, các bạn không nên áp dụng một cách máy móc phương pháp này. Phương pháp đọc sách chỉ có thể hình thành và phát triển trên cơ sở sự tìm tòi nỗ lực, rút kinh nghiệm của bản thân các bạn trong quá trình đọc. Nếu các bạn không đọc thì không bao giờ tìm được phương pháp cả.<br><br>Để hình thành phương pháp đọc sách, bước đầu các bạn nên áp dụng quy trình sau đây. Dần dần, trên cơ sở đó, các bạn có thể tìm được một phương pháp phù hợp.<br><br>Bước 1: Xác định mục đích đọc sách.<br><br>Đây là vấn đề rất quan trọng. X.I. Povarlin đã nói: "Phương pháp đọc tuỳ thuộc vào mục đích, và hoàn toàn do mục đích quy định". Mục đích đọc sách sẽ chi phối toàn bộ quá trình đọc sách. Xác định được mục đích đọc sách sẽ giúp các bạn tránh được đọc tràn lan, tốn công sức và thời gian. Mục đích đọc còn giúp các bạn có cách đọc hợp lí, phù hợp với nhiệm vụ và thời gian có thể dành cho đọc sách.<br><br>Xác định mục đích đọc sách là trả lời câu hỏi: "Đọc để làm gì?". Từ đó mới trả lời được câu hỏi: "Đọc sách gì, chỗ nào, và đọc như thế nào?".<br><br>Mục đích đọc sách còn quyết định cả phương hướng khai thác vấn đề trong cùng một cuốn sách. Ví dụ, khi đọc Truyện Kiều của Nguyễn Du, có bạn yêu thơ thì tìm những cách diễn đạt các sự vật, hiện tượng bằng thơ và những câu thơ lục bát hay; có bạn tìm hiểu cuộc đời nàng Kiều và cốt truyện; có bạn lại qua đó mà hiểu biết đời sống văn hoá, phong tục, tập quán, lễ nghi phong kiến; có bạn lại đi tìm sự phê phán những định kiến và luật lệ đã áp bức người phụ nữ... Vì vậy, xác định rõ mục đích đọc sách là việc làm quan trọng trước tiên đối với mỗi người chúng ta.<br><br>Bước 2: Tìm hiểu địa chỉ cuốn sách<br><br>Bạn đọc hai trang đầu và trang cuối của cuốn sách để biết:<br><br>– Tên cuốn sách.<br><br>– Tên tác giả.<br><br>– Tên nhà xuất bản.<br><br>– Năm xuất bản.<br><br>– Lần xuất bản.<br><br>Bạn không nên xem thường thao tác này. Những thông tin trên đây sẽ giúp bạn rất nhiều.<br><br>Bạn vừa đọc xong một quyển sách hay, bạn gặp một người bạn thân và trò chuyện huyên thuyên với người bạn này về quyển sách đó. Nhưng khi người bạn hỏi tên quyển sách và tên tác giả để bạn đó tìm đọc, thì bạn lại không nhớ, không trả lời được. Bạn có rơi vào tình trạng này bao giờ chưa? Nếu có thì chắc chắn là bạn đã bỏ qua thao tác tưởng chừng vô ích ở trên rồi đó.<br><br>Không chỉ vậy, những thông tin này còn rất tiện lợi khi bạn đi mua sách và tìm sách trong thư viện. Bạn sẽ cung cấp những thông tin về quyển sách bạn cần tìm cho nhân viên nhà sách hoặc người thủ thư, và họ sẽ giúp bạn tìm quyển sách đó một cách dễ dàng. Đứng trước những kệ sách với không biết cơ man nào là sách, mà không có được những thông tin trên, thì làm sao bạn có thể nào tìm được quyển sách bạn cần. Phải không bạn?<br><br>Mục lục cuốn sách phản ánh dàn ý chung và đơn giản của nội dung, đôi khi còn phản ánh cả dàn ý logic của nó. Bước này giúp bạn giải đáp được câu hỏi: "Cuốn sách có những nội dung gì, theo trật tự nào?".<br><br>Bước 4: Xem lời giới thiệu, lời tựa, lời nói đầu<br><br>Bạn đọc lời giới thiệu hay lời tựa để biết cuốn sách đề cập đến vấn đề gì, đối tượng nào sử dụng cuốn sách có ích hơn cả và phương pháp đọc có hiệu quả.<br><br>Lời nói đầu do tác giả cuốn sách viết. Qua lời nói đầu, bạn dễ dàng hiểu được ý đồ của tác giả, hình dung được một cách khái quát vấn đề cơ bản được đề cập và tác dụng; mục đích của cuốn sách mà tác giả mong muốn; biết vấn đề quan trọng nhất cuốn sách sẽ trình bày. Đôi khi, qua lời mở đầu, bạn còn thu lượm được cả lời khuyên của tác giả nên tìm hiểu và nghiên cứu cuốn sách như thế nào.<br><br>Bước 5: Xem lời kết luận và tóm tắt ở cuối sách<br><br>Mục đích của việc xem lời kết luận và tóm tắt của cuốn sách là để thấy rõ nội dung cô đọng nhất, những kết luận chính và sự khẳng định của tác giả đối với những vấn đề đã trình bày. Đồng thời, qua lời kết luận và tóm tắt, bạn còn thấy vấn đề chưa được giải quyết đầy đủ, phương hướng phát triển tiếp tục của chúng.<br><br>Theo nguyên tắc, tác giả phải viết lời kết luận và tóm tắt ở cuối sách. Nhưng hiện nay không hiểu sao một số tác giả lại bỏ qua công việc này.<br><br>Bước 6: Đọc một vài đoạn.<br><br>Sau khi đã có được thông tin về nội dung và mục đích cuốn sách, bạn sẽ trực tiếp tìm hiểu vào nội dung bằng cách đọc qua một số đoạn, phát hiện những đoạn lí thú, có giá trị. Nhờ đọc qua một vài đoạn như vậy, những nhận định về nội dung cuốn sách sẽ dần được chính xác hoá, tạo điều kiện cho bước đọc sau.<br><br>Bước 7: Đọc thực sự (hay đọc đi sâu).<br><br>Để lĩnh hội được những tri thức cần thiết, đạt được mục đích đọc sách, bạn cần phải đi sâu nghiên cứu cuốn sách. Công việc này đòi hỏi bạn phải có kĩ thuật đọc. Kĩ thuật đọc là năng lực chiếm lĩnh tri thức và trình độ kĩ năng đọc của bạn. Kĩ thuật đọc phụ thuộc vào mục đích đọc, thể hiện ra bằng cách đọc. Sau đây là một số cách đọc, bạn có thể tham khảo và lựa chọn theo mục đích đọc của bản thân.<br><br>    Đọc lướt qua: Nhằm khái quát những khái niệm ban đầu và nội dung của nó trong cuốn sách. Với những bạn có năng khiếu, chỉ bằng cách đọc lướt đã nắm được điều cốt yếu nhất như ý chính, sự việc chính... Khi đọc lướt, có thể bỏ qua một số trang, đoạn nào đó, hoặc dừng lại ở một số trang, đoạn nào đó. Cách đọc này sử dụng khi đọc để tìm hiểu một vấn đề nào đó đã được chuẩn bị, cần làm rõ thêm, khẳng định thêm; hoặc tìm những cách diễn đạt khác nhau cho một vấn đề nhất định.<br>    Đọc có trọng điểm (hay đọc từng phần): Là cách đọc từng đoạn, từng phần đã được lựa chọn từ trước nhằm tập trung sức lực và thời gian cho những nội dung cần thiết, cho một công việc đã được chuẩn bị.<br>    Đọc toàn bộ nhưng không nghiền ngẫm kĩ: Cách đọc này nhằm khái quát toàn bộ cuốn sách chứ không đi sâu vào những nội dung cụ thể. Khi đọc không bỏ qua trang nào cũng không dừng lại suy ngẫm ở nội dung nào mà chỉ nắm xem, điều đó đã được bàn tới, và bàn ở mức độ nào. Với các cuốn sách ta chưa biết xu hướng, tư tưởng, giá trị... cũng có thể đọc theo cách này.<br>    Đọc nghiền ngẫm nội dung cuốn sách: Đây là cách đọc quan trọng nhất, cần thiết nhất trong tự học để lĩnh hội đầy đủ nội dung cuốn sách. Từng nội dung, từng vấn đề được xem xét tìm hiểu cặn kẽ, có đối chiếu với kiến thức, kinh nghiệm và những cuốn sách khác về những vấn đề đã được đề cập trong dó. Những nội dung tư tưởng của cuốn sách được người đọc đánh giá, phê phán và hiểu đầy đủ, sâu sắc.<br>    Đọc thụ động: Cũng với cách đọc toàn bộ hay đọc lướt, nhưng người đọc hoàn toàn theo sự dẫn dắt của tác giả, chấp nhận hoàn toàn, lấy đó làm những tín điều; nhìn nhận và xem xét vấn đề bằng con mắt của tác giả.<br>    Đọc chủ động: Là cách đọc mà khi xem xét những tư tưởng cuốn sách đề cập, người đọc luôn đối chiếu, đánh giá nó. Mọi sự chấp nhận hay phản đối đều được người đọc dựa trên cơ sở sự đánh giá, đối chiếu với kiến thức, kinh nghiệm; được nhận thức theo thế giới quan, tình cảm của mình. Từ những nhận thức đó mà rút ra những kết luận cần thiết cho bản thân người đọc.<br>    Đọc nông: Chỉ khai thác nội dung, tư tưởng cuốn sách ở trình độ chấp nhận hoặc có phê phán chung chung mà chưa thể hiện được sự nghiền ngẫm cuốn sách một cách thấu đáo. Khi đọc những cuốn sách giải trí thì cách đọc này là phù hợp, đỡ tốn công sức.<br>    Đọc sâu: Là cách đọc đòi hỏi phải nghiền ngẫm sâu sắc nội dung cuốn sách để hiểu cặn kẽ, lĩnh hội có phê phán những tư tưởng mà cuốn sách đề cập. Đây cũng là cách đọc quan trọng được sử dụng trong tự học.<br><br>Mỗi cách đọc sách trên đây có thể đáp ứng cho những mục đích đọc và loại sách khác nhau. Với các loại sách khoa học và kĩ thuật, đọc với mục đích học tập, nghiên cứu phải đọc một cách chủ động, nghiền ngẫm sâu sắc, đi sâu vào nội dung từng vấn đề trong sách. Như vậy, càng thấy rõ, bạn cần có mục đích đọc sách rõ ràng trước khi bắt tay vào đọc.<br><br>Đọc sách khoa học nhằm mục đích học tập, nghiên cứu, bạn không chỉ đọc một lần, mà có khi phải đọc nhiều lần mới đạt được mục đích đã đề ra. Vì vậy, người ta còn chia việc đọc ra thành đọc lần đầu và đọc đi sâu.<br><br>Đọc lần đầu chỉ giúp bạn có những cơ sở định hướng cho các lần đọc đi sâu đạt kết quả. Chính từ kết quả đọc lần đầu, bạn có thể thấy được nội dung quan trọng và cần thiết với mình, lần đọc sau bạn chỉ cần chú tâm vào đó. Mỗi lần như vậy lại khám phá sâu thêm nội dung cuốn sách, xác định điều cần tìm hiểu cho lần đọc đi sâu sau, thu hẹp dần phạm vi đọc. Cứ như vậy cho tới khi bạn thấu hiểu cuốn sách, hoàn thành mục đích đọc thì việc đọc đó mới dừng lại. V.I. Lenin đã khuyên chúng ta: "Sau lần đọc đầu tiên phải ghi lại những chỗ chưa hiểu hoặc chưa rõ ràng để trở lại đọc lần thứ hai, lần thứ ba, thứ tư...".<br><br>Ngoài ra, bạn cần phải:<br>Tích cực tư duy khi đọc:<br><br>Đọc sách mà không tư duy tích cực thì chỉ làm phí tổn thời gian vô ích. Tích cực tư duy khi đọc là luôn hình dung những ý tưởng trong sách thành những biểu tượng, hình ảnh trong đầu; đối chiếu, so sánh chúng với nhau và với những hiểu biết đã có. Từ đó mà phát hiện được cái chủ yếu, cái không chủ yếu; cái bản chất và không bản chất, rút ra được kết luận cho bản thân mình. Trên cơ sở đó, bạn sẽ có cái nhìn mới, cái nhìn toàn thể dưới góc độ mới và chất lượng mới.<br>Đọc có tư duy tích cực là qua đó phải rút ra được điều gì từ nội dung cuốn sách, bổ sung hiểu biết gì, kinh nghiệm gì cho bản thân. Cần tránh lối đọc một chiều, lười suy nghĩ, lười ghi chép; đọc thụ động, chấp nhận tất cả, học thuộc máy móc.<br>Nếu bạn luôn tích cực tư duy khi đọc, bạn sẽ cảm thấy bạn thực sự "lớn lên" qua mỗi trang sách.<br>Tập trung chú ý cao độ khi đọc sách:<br><br>Tập trung chú ý là nỗ lực, cố gắng định hướng toàn bộ tâm trí một cách liên tục vào việc đọc nhằm suy nghĩ thấu đáo, tư duy tích cực và ghi nhớ nhanh những điều rút ra khi đọc. Đây là việc khó, đòi hỏi ở bạn một sự say mê, có nghị lực và mục đích thật rõ ràng. Bạn đừng suy nghĩ tản mạn ra khỏi nội dung cuốn sách; đừng để ý tới những chi tiết vụn vặt như lối in ấn, câu chữ... Cố gắng không để những công việc khác, những tác động bên ngoài làm xao nhãng quá trình tư duy trong khi đọc. Khi gặp vấn đề khó hiểu thì đừng nản. Hãy cố gắng suy nghĩ hoặc ghi lại để tìm hiểu sau.<br><br>Làm được như vậy thì việc đọc mới có hiệu quả.<br>Rèn luyện để có kĩ thuật đọc hợp lí:<br><br>Kĩ thuật đọc sách bao gồm từ khâu tổ chức, xác định phương pháp đọc và các thao tác đọc. Khâu tổ chức đọc sách trước hết là sự bố trí, sắp xếp và bảo đảm các điều kiện thuận lợi cho việc đọc có kết quả.<br><br>Bạn nên cố gắng chọn nơi đọc sách thích hợp để có thể tập trung tư tưởng cao và liên tục. Tránh những nơi ồn ào, ánh sáng luôn thay đổi hoặc quá tối tăm. Nơi đọc sách cũng cần thoáng mát, sạch sẽ và gọn gàng. Không nên đọc sách trong tư thế nằm, dễ ảnh hưởng đến trí nhớ. Tốt nhất là đọc tại bàn viết, ngồi thoải mái, để sách vừa tầm mắt. Bút, vở ghi chép và các dụng cụ cần thiết khác để bên cạnh, sao cho khi cần có thể lấy được ngay.<br><br>Khi đọc, bạn cần lưu ý một số điểm sau:<br><br>– Đọc bằng mắt và óc chứ không đọc bằng miệng.<br><br>– Tránh đọc nhảy trở lại quá nhiều.<br><br>– Chuyển động mắt theo chiều thẳng đứng khi đọc.<br><br>– Đọc với tốc độ biến đổi: Đoạn nào quan trọng thì đọc chậm, đọc kĩ; đoạn nào không quan trọng thì đọc nhanh, đọc lướt.<br><br>– Cố gắng hiểu ý nghĩa của cả đoạn văn, đừng để ý đến từ, đến câu.<br><br>– Tập đọc nhanh, nắm và thâu tóm nhanh cái chủ yếu, cái cơ bản của vấn đề trình bày trong sách.<br><br>Bạn nên rèn luyện thường xuyên, nâng dần tới tốc độ đọc hợp lí. V.I. Lenin đọc sách như giở sách mà vẫn nắm đầy đủ và sâu sắc nội dung cuốn sách. Bạn cần cố gắng từng bước để có thể đưa mắt trên trang sách và chụp ngay được cái hồn của cả một đoạn.<br>Cần tập phán đoán khi đọc. Nếu có mục đích đọc để giải quyết hay khẳng định điều gì đó thì chỉ cần lướt mắt tìm tới chỗ viết về cái đó.<br>Tuy nhiên, cần hiểu là, đọc nhanh không phải là đọc vội vàng, ngốn ngấu sách. Đọc như vậy chỉ có hại. Đọc nhanh là tóm lấy thật nhanh, thật đúng và đủ nội dung, chứ không phải đưa mắt nhanh trên những câu chữ.<br><br>Để rèn luyện tốc độ đọc, bạn lấy một cuốn sách, chọn một trang, hay một phần trọn vẹn rồi đọc thật nhanh một lượt. Vừa đọc, vừa cố tóm lấy nội dung của nó. Sau đó, suy nghĩ xem, nội dung của nó như thế nào. Làm lại lần nữa nhằm xác định xem nội dung vừa tóm được ở lần đọc trước đã đầy đủ chưa, chính xác chưa. Lần sau, hãy cố gắng nâng cao tốc độ đọc hơn lần trước. Đọc vài ba lượt như vậy cho tới khi khẳng định nắm được đầy đủ và đúng nội dung của phần đã đọc.<br><br>Bằng cách đó, bạn vừa nâng dần được tốc độ đọc, vừa kiểm soát được chất lượng đọc tương ứng với tốc độ đó. Khi đã có tốc độ đọc vừa ý, bạn cần thường xuyên rèn luyện, thường xuyên đọc sách để kĩ năng đã rèn luyện được không bị mai một đi.<br>Ghi chép một cách khoa học những điều đã đọc:<br><br>Đọc sách có hiệu quả thể hiện ở kết quả ghi chép. Đọc sách không thể thiếu ghi chép. Ghi chép trong khi đọc sách sẽ động viên được sự chú ý, giảm mệt mỏi. Ghi chép còn giúp các bạn kiểm tra mức độ lĩnh hội tài liệu, tạo cơ sở để ghi nhớ những kiến thức đã tiếp thu. V.I. Lenin có trí nhớ tuyệt vời, nhưng người luôn ghi chép đầy đủ những điều đã đọc, đã nghĩ. D.I. Mendeleev nói: "Ý nghĩ không được ghi chép lại chỉ là một kho báu bị giấu biệt". Ghi chép lại để sau đọc lại một cách ngắn gọn mà đầy đủ chứ không lặp lại công việc đã làm là đọc lại cả cuốn sách. Coi kìa! Bạn đang nhăn mặt và than là "Khó nuốt quá!" phải không?<br><br>Bạn không nên nói thế. Câu nói ấy sẽ làm bạn nhụt chí đấy!<br><br>Đọc sách là một kĩ năng. Mà kĩ năng thì không thể tự nhiên có được, nhưng phải qua sự kiên trì rèn luyện.<br><br>Chỉ cần bạn muốn, thì nhất định bạn sẽ làm được!<br><br>Viết đến đây, mình bỗng nhớ đến một câu trong một bài hát của nhóm Modern Talking: "You can win, if you want!" (Tạm dịch là: Bạn sẽ thắng, nếu bạn muốn!).<br><br>Nếu bạn quyết chí muốn điều gì, thì cả vũ trụ sẽ chung sức giúp bạn đạt được điều đó! (Nhà giả kim - Paulo Coelho)<br><br>Chúc bạn thành công!<br><br>Đọc thêm: Một số nguyên tắc đọc sách căn bản<br><br>Trạm Đọc (Read Station)</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chúng ta không còn đủ chi phí để sống, và những người giàu đang &quot;gaslighting&quot; chúng ta.</title>
+        <author>
+            <name>Hoang Do Huy</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/chung-ta-khong-con-du-chi-phi-de-song-va-nhung-nguoi-giau-dang-gaslighting-chung-ta.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/chung-ta-khong-con-du-chi-phi-de-song-va-nhung-nguoi-giau-dang-gaslighting-chung-ta.html</id>
+        <media:content url="https://dohuyhoang93.github.io/PubliiPage/media/posts/11/3nj933pp.png" medium="image" />
+            <category term="Economic"/>
+
+        <updated>2021-04-27T00:19:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/11/3nj933pp.png" alt="" />
+                    Nguồn: spiderum.com Một vài năm về trước, một trong những người bạn&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/11/3nj933pp.png" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:paragraph --></p>
+<p>Nguồn: <a class="domain" href="https://spiderum.com/bai-dang/Chung-ta-khong-con-du-chi-phi-de-song-va-nhung-nguoi-giau-dang-gaslighting-chung-ta-z7c">spiderum.com</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":92,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-92"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/11/image_editor_output_image-1438383696-1619503807636.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/11/responsive/image_editor_output_image-1438383696-1619503807636-xs.jpg 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/11/responsive/image_editor_output_image-1438383696-1619503807636-sm.jpg 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/11/responsive/image_editor_output_image-1438383696-1619503807636-md.jpg 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/11/responsive/image_editor_output_image-1438383696-1619503807636-lg.jpg 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:separator --></p>
+<hr class="wp-block-separator"><!-- /wp:separator -->
+<p><!-- wp:paragraph --></p>
+<p>Một vài năm về trước, một trong những người bạn của tôi đã thú nhận trong một buổi đi cafe. Cô ấy nghiêng người về phía trước một chút, giọng cô trầm hẳn đi : "Tớ yêu các con của tớ, nhưng đứng ở góc độ tài chính thì tớ hơi hối hận vì đã có con ".</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Bạn tôi, cô ấy là một giáo viên có thâm niên, cô ấy từng viết sách và được xuất bản với những nhà xuất bản lớn, nhiều người từng nài nỉ cô ấy đến chia sẻ tại các hội thảo. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nhưng bất chấp những điều này, gia đình cô ấy vẫn không hề khá giả (chồng cô ấy cũng có bằng cấp cao về ngành kỹ thuật), khi cô ấy nói dứt câu, khuôn mặt cô ấy toát lên vẻ xấu hổ.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Đây là một câu chuyện phổ biến vào thời buổi này.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>-- Trích từ bài viết của Jessica Wildfire trên Medium</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Chúng ta không còn đủ chi trả để sống nữa.</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Một điều này sẽ làm bạn ngạc nhiên : Chi phí trung bình để sống vượt xa thu nhập trung bình của hầu hết các chuyên gia. Chúng ta đang nói đến các y tá và các nhà hoạt động xã hội, lính cứu hỏa và cảnh sát, giáo viên và bác sĩ nhi khoa, thậm chí là các người thợ và các kỹ sư.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Đó là tập hợp những người đóng góp trực tiếp vào việc làm cho xã hội tiếp tục vận hành, nhưng họ hiện tại không kiếm đủ để phụ giúp cho gia đình của chính họ.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Bất kỳ một gia đình nào đều có thể liệt kê ra các loại chi phí :<br>- Nhà ở<br>- Giao thông </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Thực phẩm</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Đồ dùng thiết yếu (Bao gồm cả quần áo)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Truyền thông (dịch vụ truyền hình, cước điện thoại, internet)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Giải trí (Nghe có vẻ không cần thiết nhưng nó là cần thiết với cái cuộc sống quá stress này, và nó còn rất bổ ích cho sự phát triển của trẻ nhỏ)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Chăm sóc sức khỏe</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Quỹ phòng ngừa rủi ro, tai nạn</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Bắt đầu một gia đình mới là một điều xa xỉ</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Suy cho cùng, khi lập gia đình và có thêm một (hay nhiều) đứa bé, thì bạn phải có thực phẩm để đứa trẻ ăn, có quần áo để đứa trẻ mặc. Bạn cần một nơi ở lớn hơn để chứa thêm một (hoặc nhiều) nhân vật.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Điều này cũng có thể là một lý giải cho lý do tại sao tỷ lệ sinh có xu hướng giảm, nhất là vùng đô thị, và cả lý do tại sao những người thế hệ millennials (Thế hệ Y, sinh ra trong khoảng 1981 đến 1996) lại trì hoãn việc mua nhà và lập gia đình bởi tài chính của họ chưa ổn định.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> Cụm từ "baby boomers" mình tạm dịch là "bùng nổ trẻ em", nói chung là người đã có con, mình sẽ gọi là "boomer". Các "boomer" này có một vấn đề, vấn đề này là hệ quả của việc mở rộng nơi ở khi có con, mà thường khi về già họ lại không còn quá nhiều nhu cầu về một nơi ở quá rộng, một vài người muốn có một nơi ở nhỏ hơn sau khi nghỉ hưu (thử tưởng tượng bạn 60 tuổi và phòng ngủ của bạn trên tầng 3). Có 2 cách hoặc là tu sửa lại nơi ở (cách này mất thêm chi phí tu sửa) hoặc là bán nơi ở hiện tại để mua nơi ở khác nhỏ hơn và khả năng giá có thể rẻ hơn (cách này không mất chi phí tu sửa, thậm chí còn có thể thu về một khoản tiền chênh lệch). Nhưng nếu lựa chọn cách bán lại (hoặc cho thuê lại) nơi ở, thì có thể cuộc nói chuyện sẽ như thế này :<br><em>Người bán : Quận này có nhiều trường học tốt lắm.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Người mua : Nhưng tôi chưa có con.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Người bán : Căn nhà có 3 phòng ngủ, thoải mái cho các cặp vợ chồng.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Người mua : Tôi sống một mình ... với con chó của tôi.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Người bán : Vậy thì, có một khoảng sân rộng trước nhà cho chó của anh chơi.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Người mua : Giống chó của tôi khá bé.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nói chung là, cũng khó, bởi ít người có thể chi trả cho một nơi ở đắt tiền, mà bạn chắc hẳn không hề muốn bán hoặc cho thuê lại nơi ở rộng rãi của mình với cái giá rẻ.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Những kẻ giàu có đang tham gia vào thao túng tài chính</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Chắc hẳn nhiều bạn đã biết "gaslighting" là thuật ngữ cho hành động gì rồi nhưng vì đây không phải một bài viết về tâm lý học nên mình tạm dịch là "thao túng" cho gọn.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Những kẻ giàu có thao túng mọi lúc mọi nơi.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tích trữ của cải là một kiểu lạm dụng mà giới nhà giàu gây ra cho toàn thế giới. Để bào chữa cho việc này, họ dựng lên một loạt các lời nói dối để đổ lỗi cho vấn đề tài chính của người khác.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thật dễ dàng để đánh lạc hướng ai đó khỏi sự bất bình đẳng có hệ thống và khiến họ cảm thấy tội lỗi về những vấn đề tài chính không phải do họ gây ra. Chỉ cần bảo họ rằng đó là tại vì họ ham dùng tivi màn hình phẳng và smartphone, những thứ mà thực sự không ảnh hưởng quá lớn đến tiền tiết kiệm của họ (chưa kể tivi và smartphone thì càng ngày càng rẻ và dễ mua). Chỉ cần bảo họ là họ thật lười biếng, họ dành quá nhiều thời gian xem Netflix.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Bạn chỉ cần quát nạt họ rằng họ đã không chịu đầu tư vào chứng khoán, cổ phiếu, hay đốt tiền vào các loại tài sản dễ bốc hơi. Bạn chỉ cần khiến họ thấy xấu hổ khi họ làm những công việc có ý nghĩa và góp ích cho cộng đồng, thay vì kiếm tiền và trở nên giàu có sau đó có thể tách biệt khỏi nền kinh tế.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Bạn chỉ cần buộc tội họ đã bực tức với những người giàu sang và có thái độ kém cỏi với tiền bạc (bất kể điều đấy có nghĩa là gì). Sau đấy, bạn bơm thổi cho họ những câu chuyện cổ tích, về một người nào đó xuất thân nghèo khó và trở nên giàu có từ con số 0 (hầu như bất kỳ ai nổi tiếng sau này cũng đều được mang những câu chuyện đau thương hồi nhỏ ra để bàn, cứ như thể bất kỳ ai thành công đều là người từng bất hạnh, những chi tiết vui vẻ vun đắp cho thành công thì không được nhắc tới vì nó không có nhiều sức hút bằng, đỉnh cao của kịch là bi kịch mà). Sau cùng, bạn nói với họ rằng tiền không phải là tất cả, rằng không một số tiền nào có thể khiến họ hạnh phúc trừ khi họ tự yêu lấy chính bản thân mình. Hiệu quả của kiểu tuyên truyền này rất vi diệu vì nó khiến cho họ bối rối. Thao túng ai đó về điều kiện tài chính của họ, và họ sẽ không biết phải nghĩ gì nữa.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Và đó là mấu chốt.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Thao túng tài chính gây ra những hậu quả</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Có hàng triệu người đang tuyệt vọng ngoài kia, kể cả có cho họ một công việc, họ vẫn không thể chi trả đủ, và đây là những lời khuyên chúng ta thường được nghe :</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Đầu tư vào cổ phiếu</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Kiếm việc làm thêm (đồng nghĩa với làm nhiều việc cùng lúc)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Trở nên nổi tiếng (Go viral, mình cũng không rõ dịch thế nào cho chuẩn, đại loại là những youtubers, streamers, KOLs,..)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Mở một công ty riêng, start up</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>- Chi tiêu ít đi, tiết kiệm nhiều hơn</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Không có ý gì đâu nhưng những lời khuyên trên giống như việc cứu người đang chết đuối bằng việc ném cho họ một mớ lá cây. Chúng trông có vẻ có ích, nhưng thực sự là không. Chúng chẳng khác gì chuyển toàn bộ trách nhiệm từ chính phủ và cơ cấu kinh tế sang cho các cá nhân đang bị quá tải.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Sẽ rất tuyệt nếu bạn làm được vài công việc cùng một lúc và có thêm nhiều nguồn thu nhập, hay là trở nên nổi tiếng ở một lĩnh vực chưa ai từng khai phá. Sẽ rất tuyệt khi là một ngoại lệ, nhưng là ngoại lệ tức là bạn làm một việc mà chưa ai làm được, giống như bạn là một thiên tài vậy, vấn đề ở đây là, chúng ta không thể kỳ vọng giải quyết vấn nạn nghèo đói bằng cách ép tất cả mọi người thành những thiên tài được.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hãy trở nên thực tế.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nền kinh tế này cần những người làm dịch vụ, những thu ngân, những người giúp việc, những nông dân,... Xã hội này thì cần những y tá, những giáo viên, những người lính cứu hỏa và cảnh sát, những người hoạt động xã hội và những công nhân, hay những người thợ thủ công,... Khi một ai đó thao túng tài chính của họ bởi vì thu nhập của họ không đủ để trả các chi phí sinh hoạt và các hóa đơn, cũng đồng nghĩa với việc ai đó đang cố gắng làm như chúng ta có thể sống trong một thế giới mà không cần đến những ngành nghề kia vậy. Và khi thu nhập của họ một cách hợp pháp là không đủ, họ sẽ có những ý tưởng về những khoản thu nhập bất hợp pháp, điều này kéo theo hàng loạt các vấn đề xã hội khác. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Sự thật là, chúng ta <strong>cần</strong> những nông dân, người làm dịch vụ, giáo viên, y tá, cảnh sát, công nhân,... nhiều hơn rất rất nhiều những vloggers hay những streamers ngoài kia. Biện pháp để giải quyết tình trạng tài chính tuyệt vọng đang lan rộng không phải là cố vũ mọi người trở thành Youtubers hay người mẫu trên Tiktok và Instagram.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mà là trả lương cho họ nhiều hơn.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Link bài viết gốc : (Original article)</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>P/S : Mình đã có chính sửa nhiều chỗ sau khi dịch bài viết này, nhưng ý đồ chính của bài viết thì vẫn vậy. Bài viết nói đến tình trạng ở US nhưng mình thấy thực trạng này là chung trên toàn cầu và Việt Nam không phải ngoại lệ.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Không biết các bạn có suy nghĩ thế nào nhưng mình rất đồng cảm với tác giả, nhất là về việc mất cân bằng thu nhập của những người mà mình cho rằng chỗ đứng trong xã hội của họ là cần thiết hơn nhưng thu nhập của họ thì lại kém xa so với sự cần thiết đó, trong khi một nguồn lớn thu nhập vẫn chảy về túi của những người giàu (hoặc những người có chỗ đững không quá cần thiết), khiến họ càng giàu thêm và càng thao túng nặng nề thêm tài chính của những người nghèo. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nhiều người sẽ nghĩ rằng tác giả bài viết này đang ghen ăn tức ở, và mình cũng vậy nên mới đi dịch và đi tuyên truyền lại bài viết này,... Nếu bạn nào có nghĩ như vậy thì mình cũng không biết giải thích thế nào cả, góc nhìn của mình là bất kỳ ai làm việc gì cũng nên xét theo một thước đo là "cống hiến", họ đã cống hiến cái gì, và so với sự cống hiến đó, cái họ nhận lại là gì, có thể không phải là tiền nhưng chí ít phải có gì đó mang tính động viên và khen thưởng, một ưu đãi nào đó,... nhưng không, mình không thấy, thời nay mọi thứ đều quy ra tiền và nếu xét theo cái thước đo là tiền thì nó chưa hợp lý, và chúng ta cứ mãi chấp nhận cái sự bất hợp lý này cho đến bao giờ ?   </p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bản chất của vũ trụ và du hành không - thời gian.</title>
+        <author>
+            <name>Hoang Do Huy</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/ban-chat-cua-vu-tru-va-du-hanh-khong-thoi-gian.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/ban-chat-cua-vu-tru-va-du-hanh-khong-thoi-gian.html</id>
+        <media:content url="https://dohuyhoang93.github.io/PubliiPage/media/posts/9/zo0u175g.png" medium="image" />
+            <category term="thời gian."/>
+            <category term="thuyết tương đối rộng"/>
+            <category term="du hành thời gian"/>
+            <category term="cơ học lượng tử"/>
+
+        <updated>2021-04-23T15:03:04+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/9/zo0u175g.png" alt="" />
+                    Trong vật lý hiện đại, trọng lực và thời gian chi phối&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/9/zo0u175g.png" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:heading {"level":3} --></p>
+<h3>The essence of the universe and space-time travel.</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:image {"id":68,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><figure class="wp-image-68"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/9/steps_of_the_multiverse__heavy_file___by_spin_chan-da0v4pu.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/9/responsive/steps_of_the_multiverse__heavy_file___by_spin_chan-da0v4pu-xs.png 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/9/responsive/steps_of_the_multiverse__heavy_file___by_spin_chan-da0v4pu-sm.png 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/9/responsive/steps_of_the_multiverse__heavy_file___by_spin_chan-da0v4pu-md.png 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/9/responsive/steps_of_the_multiverse__heavy_file___by_spin_chan-da0v4pu-lg.png 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Trong vật lý hiện đại, trọng lực và thời gian chi phối vũ trụ. Cùng với đó thuyết tương đối rộng - vật lý thiên thể, và cơ học lượng tử - vật lý lượng tử, là hai học thuyết giải thích cách vận hành của vạn vật.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tuy nhiên có thể thấy được. Với các vật thể cỡ thiên thể, nó có xu hướng biến động và chuyển hoá. Còn các hạt lượng tử nội tại của nó có xu hướng muốn ổn định và cân bằng.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ở đây có một nhân tố then chốt khiến cho hai học thuyết này không thể cùng thoả mãn nhau. Đó là thời gian.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Trong vật lý thiên thể và vật lý cổ điển. Đại lượng thời gian xuất hiện trong mọi công thức tính toán. Do chúng ta luôn thấy sự vật biến đổi và muốn tính toán điều ấy. Tuy nhiên với nội tại một hạt lượng tử. Do nó có xu hướng đi về trạng thái ổn định, cân bằng về trạng thái và năng lượng. Nên với nó, thời gian không có ý nghĩa gì cả.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Có nghĩa là, dù là vũ trụ hay hạt lượng tử. Không có cái gì gọi là: "thời gian" tồn tại.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Một sự vật cũng như một hạt lượng tử bản thân nó không biến chuyển trạng thái này sang trạng thái khác. Mà thực ra, nó tạo ra một phiên bản khác của chính mình, như là một hệ quả của các tác nhân tác động vào nó. Nó và phiên bản kia cùng nhau tồn tại. Đây là một quá trình vô tận.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Không tồn tại thời gian. Không có du hành thời gian về quá khứ hay tương lai. Tuy nhiên, khi ở cấp độ lượng tử, chúng ta có thể loại bỏ thời gian và đi gặp các bản sao "cũ" của mình. Với điều kiện bạn phải là các hạt lượng tử. Vậy thì khác gì không tồn tại?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Câu trả lời: "thông tin". Thông tin là thứ do sinh vật tạo ra, không thuộc thế giới vật chất. Bằng cách mã hoá cách tạo ra " bản thân" vào hạt lượng tử và gửi nó sang chiều không gian chứa bản sao cũ. Sau đó, tại chiều không gian đó, có người am hiểu cách tái tạo lại bạn từ thông tin mang trong lượng tử đó. Bạn sẽ được sống lại đúng nghĩa.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Vì không có "thời gian" và các bản sao là độc lập với nhau. Nên cũng không có nghịch lý "ông nội" ở đây.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Chúc ngủ ngon.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator --></p>
+<hr class="wp-block-separator"><!-- /wp:separator -->
+<p><!-- wp:paragraph --></p>
+<p>In modern physics, gravity and time govern the universe. Along with that general relativity - celestial physics, and quantum mechanics - quantum physics, are two theories that explain how things work.<br><br>However can be seen. With celestial bodies, it tends to fluctuate and transform. Its intrinsic quantum particles tend to want stability and balance.<br><br>Here there is a key factor that prevents these two theories from being able to satisfy each other. It's time.<br><br>In astrophysics and classical physics. The amount of time that occurs in all calculation formulas. Because we always see things change and want to calculate that. However with intrinsic a quantum particle. Because it tends to move toward steady state, in equilibrium in state and energy. So with it, time makes no sense.<br><br>That means, whether it's the universe or the quantum particle. There is no such thing as "time" to exist.<br><br>A thing, as well as a quantum particle, does not itself change state to state. Rather, it creates a different version of itself, as a result of the agents acting on it. It and the other version coexist. This is an endless process.<br><br>There was no time. There is no time travel to the past or to the future. However, when at the quantum level, we can eliminate time and go meet our "old" copies. Provided you are quantum particles. Then what else does not exist?<br><br>Answer: "information". Information is something created by living beings, not in the physical world. By encoding how to create "self" into the quantum particle and send it into the dimension of the old copy space. Then, in that dimension, someone knows how to reconstruct you from the information carried in that quantum. You will be brought back to life properly.<br><br>For there is no "time" and the clones are independent of each other. So there is also no "grandfather" paradox here.<br><br>Good night.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>5 whys: phương pháp phân tích nguyên nhân gây sự cố sản xuất.</title>
+        <author>
+            <name>Hoang Do Huy</name>
+        </author>
+        <link href="https://dohuyhoang93.github.io/PubliiPage/5-whys-phuong-phap-phan-tich-nguyen-nhan-gay-su-co-san-xuat.html"/>
+        <id>https://dohuyhoang93.github.io/PubliiPage/5-whys-phuong-phap-phan-tich-nguyen-nhan-gay-su-co-san-xuat.html</id>
+        <media:content url="https://dohuyhoang93.github.io/PubliiPage/media/posts/8/wl59vh34.png" medium="image" />
+            <category term="Economic"/>
+            <category term="5 why"/>
+
+        <updated>2021-04-13T01:53:51+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/8/wl59vh34.png" alt="" />
+                    5 whys là phương pháp được sử dụng từ rất lâu trong&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dohuyhoang93.github.io/PubliiPage/media/posts/8/wl59vh34.png" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:paragraph --></p>
+<p>5 whys là phương pháp được sử dụng từ rất lâu trong các công ty sản xuất công nghiệp. Ví dụ như toyota. Đây là phương pháp hữu hiệu để tìm hiểu sâu về nguyên nhân gây ra điểm bất cập trong quá trình sản xuất tự động hoá.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mô hình 5 whys là cách đặt câu hỏi tại sao cho vấn đề và tìm câu trả lời cho nó, cho đến khi không thể hỏi tại sao nữa như sau:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Lỗi xảy ra -&gt; Hiện tượng<br>-&gt; why1: tại sao xảy ra hiện tượng lỗi trên.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>-&gt; why2: tại sao xảy ra why 1</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>-&gt;why3: tại sao xảy ra why 2</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>-&gt; why4: tại sao xảy ra why 3</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>-&gt; why5: tại sao xảy ra why 4</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thông thường, càng đưa ra nhiều why thì càng đi sâu vào chi tiết và nguyên nhân gốc rễ của vấn đề.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:gallery {"linkTo":"none"} --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":78,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><figure class="wp-image-78"><img loading="lazy"  src="https://dohuyhoang93.github.io/PubliiPage/media/posts/8/pexels-rodolfo-clix-1036936-3.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://dohuyhoang93.github.io/PubliiPage/media/posts/8/responsive/pexels-rodolfo-clix-1036936-3-xs.jpg 300w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/8/responsive/pexels-rodolfo-clix-1036936-3-sm.jpg 480w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/8/responsive/pexels-rodolfo-clix-1036936-3-md.jpg 768w ,https://dohuyhoang93.github.io/PubliiPage/media/posts/8/responsive/pexels-rodolfo-clix-1036936-3-lg.jpg 1024w"></figure></figure>
+<p><!-- /wp:image --></p>
+</figure>
+<p><!-- /wp:gallery --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hiện tượng: Bị rò gỉ dầu trên thân máy.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Why1: tại sao lại bị rò? Do ốc dầu bị lỏng ra.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Why 2: tại sao ốc dầu bị lỏng ra? Do người vặn ốc không chắc chắn.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Why 3: tại sao người vặn ốc không chắc chắn? Do chưa được đào tạo về tiêu chuẩn khi thao tác.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Why 4: tại sao lại chưa được đào tạo tiêu chuẩn? Do chưa có tiêu chuẩn.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Why 5: tại sao chưa có tiêu chuẩn? Do kỹ sư chưa ban hành tiêu chuẩn.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"left"} --></p>
+<p class="has-text-align-left">Why 6: tại sao kỹ sư chưa đưa ra tiêu chuẩn? Do thiếu trách nhiệm.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ưu điểm: Giúp ai cũng có thể tìm ra nguyên nhân sâu xa, dù là người mới làm quen với phân tích lỗi.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Nhược điểm: Bị thiếu nguyên nhân. Do khi phân tích sẽ rơi vào lối phân tích một nguyên nhân-&gt;một hiện tượng. Nhưng trong thực tế, có trường hợp nhiều nguyên nhân tương tác với nhau mà gây ra lỗi.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>-&gt; Dẫn đến người làm báo cáo phân tích có thể chọn lọc nguyên nhân để điều hướng bản báo cáo.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hiệu quả áp dụng khi tìm cách khắc phục lỗi ngay tại hiện trường không cao. Phần lớn là các lỗi đã biết nguyên nhân sơ bộ Why1 Why2 rồi mới tiến hành phân tích được.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:video {"id":54} --></p>
+<figure class="wp-block-video"><video loading="lazy" width="300" height="150" controls="controls" src="https://tipeas.wordpress.com/wp-content/uploads/2021/04/istockphoto-482880069-640_adpp_is-1.mp4"></video></figure>
+<p><!-- /wp:video --></p>
+<p>https://youtu.be/mZ-L6FzX3yE</p>
             ]]>
         </content>
     </entry>
